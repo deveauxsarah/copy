@@ -1,0 +1,28 @@
+/* Vos customisations des classes de Bootstrap */
+.box {-ms-flex: auto;
+    
+  }
+
+  .one{
+      flex: 1 1 auto;
+
+  }
+
+  .two {
+    flex: 1 1 auto;
+  }
+
+
+/* Responsive Styling */
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
